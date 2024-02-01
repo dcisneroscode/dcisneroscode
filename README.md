@@ -1,3 +1,7 @@
+# Hi, I'm Daniel Cisneros!
+
+I'm a passionate fullstack developer with a specialized focus on creating robust and attractive technical solutions in the world of web development. My background and skills span both frontend and backend, with a particular dedication to innovation and performance-centric design.
+
 ## Advanced Frontend Development:
 
 I transform concepts into appealing interfaces using my expertise in React, JavaScript, and TypeScript. My proficiency in HTML, CSS, Tailwind, and Bootstrap ensures meticulous design for an exceptional user experience.
@@ -18,4 +22,4 @@ I blend design skills with tools like Figma and Adobe XD to create visually appe
 
 I have experience in the design and efficient management of databases, encompassing both SQL and NoSQL. My knowledge includes databases like MongoDB and SQL Server, implementing effective queries to ensure data integrity and performance.
 
-These specialized skills, coupled with my passionate approach to creating robust technical solutions, make me a versatile professional committed to excellence in web development. I'm excited about the opportunity to contribute to exciting projects and learn in a challenging environment! If you're looking for a fullstack developer passionate about technical excellence and impactful design, feel free to contact me: dcisneroscode@gmail.com
+These specialized skills, coupled with my passionate approach to creating robust technical solutions, make me a versatile professional committed to excellence in web development. I'm excited about the opportunity to contribute to exciting projects and learn in a challenging environment! If you're looking for a fullstack developer passionate about technical excellence and impactful design, feel free to contact me
